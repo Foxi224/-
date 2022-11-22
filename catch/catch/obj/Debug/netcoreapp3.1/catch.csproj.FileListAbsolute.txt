@@ -1,0 +1,13 @@
+C:\Users\mvideo\source\repos\catch\catch\bin\Debug\netcoreapp3.1\catch.exe
+C:\Users\mvideo\source\repos\catch\catch\bin\Debug\netcoreapp3.1\catch.deps.json
+C:\Users\mvideo\source\repos\catch\catch\bin\Debug\netcoreapp3.1\catch.runtimeconfig.json
+C:\Users\mvideo\source\repos\catch\catch\bin\Debug\netcoreapp3.1\catch.runtimeconfig.dev.json
+C:\Users\mvideo\source\repos\catch\catch\bin\Debug\netcoreapp3.1\catch.dll
+C:\Users\mvideo\source\repos\catch\catch\bin\Debug\netcoreapp3.1\catch.pdb
+C:\Users\mvideo\source\repos\catch\catch\obj\Debug\netcoreapp3.1\catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvideo\source\repos\catch\catch\obj\Debug\netcoreapp3.1\catch.AssemblyInfoInputs.cache
+C:\Users\mvideo\source\repos\catch\catch\obj\Debug\netcoreapp3.1\catch.AssemblyInfo.cs
+C:\Users\mvideo\source\repos\catch\catch\obj\Debug\netcoreapp3.1\catch.csproj.CoreCompileInputs.cache
+C:\Users\mvideo\source\repos\catch\catch\obj\Debug\netcoreapp3.1\catch.dll
+C:\Users\mvideo\source\repos\catch\catch\obj\Debug\netcoreapp3.1\catch.pdb
+C:\Users\mvideo\source\repos\catch\catch\obj\Debug\netcoreapp3.1\catch.genruntimeconfig.cache
