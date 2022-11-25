@@ -1,0 +1,14 @@
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\bin\Debug\netcoreapp3.1\rabota s datami.exe
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\bin\Debug\netcoreapp3.1\rabota s datami.deps.json
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\bin\Debug\netcoreapp3.1\rabota s datami.runtimeconfig.json
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\bin\Debug\netcoreapp3.1\rabota s datami.runtimeconfig.dev.json
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\bin\Debug\netcoreapp3.1\rabota s datami.dll
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\bin\Debug\netcoreapp3.1\rabota s datami.pdb
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\obj\Debug\netcoreapp3.1\rabota s datami.csproj.AssemblyReference.cache
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\obj\Debug\netcoreapp3.1\rabota s datami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\obj\Debug\netcoreapp3.1\rabota s datami.AssemblyInfoInputs.cache
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\obj\Debug\netcoreapp3.1\rabota s datami.AssemblyInfo.cs
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\obj\Debug\netcoreapp3.1\rabota s datami.csproj.CoreCompileInputs.cache
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\obj\Debug\netcoreapp3.1\rabota s datami.dll
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\obj\Debug\netcoreapp3.1\rabota s datami.pdb
+C:\Users\mvideo\source\repos\rabota s datami\rabota s datami\obj\Debug\netcoreapp3.1\rabota s datami.genruntimeconfig.cache
