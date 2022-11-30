@@ -1,0 +1,5 @@
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\bin\Debug\InspectorLib.dll
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\bin\Debug\InspectorLib.pdb
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\itogovaya_za_prak.csproj.CoreCompileInputs.cache
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\InspectorLib.dll
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\InspectorLib.pdb

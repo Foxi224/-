@@ -1,0 +1,12 @@
+C:\Users\Абоба\source\repos\InspectorLib\InspectorLib\bin\Debug\InspectorLib.dll
+C:\Users\Абоба\source\repos\InspectorLib\InspectorLib\bin\Debug\InspectorLib.pdb
+C:\Users\Абоба\source\repos\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csproj.AssemblyReference.cache
+C:\Users\Абоба\source\repos\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\Абоба\source\repos\InspectorLib\InspectorLib\obj\Debug\InspectorLib.dll
+C:\Users\Абоба\source\repos\InspectorLib\InspectorLib\obj\Debug\InspectorLib.pdb
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\bin\Debug\InspectorLib.dll
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\bin\Debug\InspectorLib.pdb
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csproj.AssemblyReference.cache
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\InspectorLib.dll
+C:\Users\mvideo\Desktop\Ganeeva-main\GaneevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\InspectorLib.pdb
