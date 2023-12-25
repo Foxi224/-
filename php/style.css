@@ -1,0 +1,20 @@
+.sell-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px auto;
+    border: 1px solid red;
+    width: 300px;
+    box-shadow: 4px 3px 8px 0px red;
+    flex-direction: column;
+}
+
+
+.news{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    margin: 15px auto;
+}
